@@ -2,7 +2,7 @@
 
 # DataVista
 
-### Diagnosing Multimodal LLMs on the Understanding of Data Videos
+### Diagnosing Multimodal LLMs on Data Video Understanding
 
 **Dynamic charts · Temporal reasoning · Data narratives**
 
