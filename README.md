@@ -8,9 +8,7 @@
 
 </div>
 
-> **🚧 Project page under construction**
->
-> We are preparing the public release of DataVista. Dataset downloads, evaluation resources, and the paper link will be added here as they become available.
+> Paper and release updates will be posted here.
 
 ## Overview
 
@@ -30,11 +28,8 @@ DataVista evaluates how well multimodal large language models understand data vi
 
 The benchmark spans **Economy, Society, Science, Politics, and Culture**, with both single-answer and multiple-select questions.
 
-## Release status
+## Paper and resources
 
-- [x] Project repository established
-- [ ] Paper link
-- [ ] Dataset and documentation
-- [ ] Evaluation resources
+The paper link will be added here when available. Dataset and evaluation resources are planned for a future release.
 
-Watch this repository for release updates.
+Watch this repository for updates.
